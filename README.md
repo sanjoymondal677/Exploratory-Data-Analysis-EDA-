@@ -1,2 +1,1 @@
-# DATA_SCIENCE_EDA
-# Big_Mart_sales
+# EDA_Big_Mart_Sales
